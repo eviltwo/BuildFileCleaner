@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.build-file-cleaner",
+    "displayName": "Build File Cleaner",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Deletes specific files generated during the build.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
